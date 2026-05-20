@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Word Formation System",
+    "file": "simulations/word_formation_system_ai_simulation.py",
+    "type": "VPython simulation",
+    "tags": [
+      "letters",
+      "syllables",
+      "words",
+      "meaning",
+      "sound",
+      "grammar category",
+      "AI controller"
+    ],
+    "description": "Letters float through 3D space, attach into syllables, syllables attach into words, and finished words gain sound, meaning, and category labels."
+  },
+  {
+    "title": "Sentence Construction Machine",
+    "file": "simulations/sentence_construction_machine_ai_simulation.py",
+    "type": "VPython simulation",
+    "tags": [
+      "sentence construction",
+      "nouns",
+      "verbs",
+      "adjectives",
+      "prepositions",
+      "grammar factory",
+      "AI controller"
+    ],
+    "description": "Nouns, verbs, adjectives, and prepositions travel on colored tracks, snap into sentence slots, and form readable sentences."
+  },
+  {
+    "title": "Grammar as a Force Field",
+    "file": "simulations/grammar_force_field_ai_simulation.py",
+    "type": "VPython simulation",
+    "tags": [
+      "grammar",
+      "force field",
+      "word particles",
+      "syntax",
+      "sentence chains",
+      "AI controller"
+    ],
+    "description": "Words behave like particles in a grammar field, where compatible words attract, incompatible words repel, and stable sentence chains glow."
+  },
+  {
+    "title": "Meaning Network",
+    "file": "simulations/meaning_network_ai_simulation.py",
+    "type": "VPython simulation",
+    "tags": [
+      "meaning network",
+      "semantic graph",
+      "synonym",
+      "antonym",
+      "metaphor",
+      "cause effect",
+      "AI controller"
+    ],
+    "description": "Words appear as nodes connected by relation links, and activating one word sends pulses through related meanings."
+  },
+  {
+    "title": "Language Evolution Over Time",
+    "file": "simulations/language_evolution_over_time_ai_simulation.py",
+    "type": "VPython simulation",
+    "tags": [
+      "language evolution",
+      "word drift",
+      "borrowing",
+      "splitting",
+      "merging",
+      "sound change",
+      "AI controller"
+    ],
+    "description": "Words drift across generations, split into descendants, merge as cognates, borrow across language regions, and change pronunciation."
+  }
+]

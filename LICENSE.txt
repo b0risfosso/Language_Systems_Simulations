@@ -1,0 +1,14 @@
+License
+
+Copyright (c) 2026 Boris Fosso
+
+All rights reserved unless you choose another license.
+
+Before publishing on itch.io, replace this file with the license terms you want.
+Options include:
+- All Rights Reserved
+- MIT License
+- Creative Commons Attribution
+- Creative Commons Attribution-NonCommercial
+
+If selling the pack, keep this file clear about what buyers may and may not do with the code, videos, screenshots, and derivative works.

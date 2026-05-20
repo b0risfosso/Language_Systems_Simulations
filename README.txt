@@ -1,9 +1,7 @@
 Language Systems Simulation Pack
 ================================
 
-A separate itch.io-ready pack of interactive 3D Python simulations built with VPython.
-
-This pack is separate from the DNA, Atom & Bonding, Cell & Origin of Life, and Human Genome packs.
+interactive 3D Python simulations built with VPython.
 
 Included simulations
 --------------------
@@ -50,19 +48,3 @@ Important note
 These are visual and educational language simulations, not full natural-language parsers,
 linguistic analyzers, or historically exact language-evolution models. They use simplified
 symbolic rules so word formation, syntax, meaning, grammar, and evolution are visible.
-
-itch.io upload suggestion
--------------------------
-Upload this entire folder as a ZIP file. Set the itch.io project kind to Downloadable.
-This is not an HTML/browser game unless later converted or packaged differently.
-
-Suggested itch.io classification
---------------------------------
-Classification: Tool, Game, or Other
-Platform: Windows/macOS/Linux, depending on the buyer's Python setup
-Pricing: Free, paid, or pay-what-you-want
-
-Recommended page assets
------------------------
-Add screenshots to the screenshots/ folder.
-Add short demo videos or GIFs to the videos/ folder.
